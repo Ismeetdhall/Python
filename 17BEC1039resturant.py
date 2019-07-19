@@ -1,0 +1,5 @@
+bill= int(input("ENTER Your Restaurant Bill : "))
+print ("Your Original Bill :\t",bill)
+print ("Your 20% Discounted Bill :\t",bill-(bill*20/100))
+print ("Your 25% Discounted Bill :\t",bill-(bill*25/100))
+input("\nPRESS ENTER KEY TO EXIT:)\n")
